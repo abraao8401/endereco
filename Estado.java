@@ -1,4 +1,4 @@
 public class Estado {
-    String sigla; 
-    String nome; 
+    private String sigla; 
+    public String nome; 
 }

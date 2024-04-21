@@ -1,5 +1,5 @@
 public class Endereco {
-    String numero; 
-    String complemento;
-    String CEP;
+   private String numero; 
+   private String complemento;
+   private String CEP;
 }

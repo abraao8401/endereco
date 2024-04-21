@@ -1,3 +1,3 @@
 public class Bairro{
-    String nome; 
+   private String nome; 
 }

@@ -1,3 +1,3 @@
 public class Pais {
-    String nome; 
+    public String nome; 
 }
