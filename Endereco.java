@@ -4,5 +4,6 @@ public class Endereco {
    private String CEP;
    private Bairro bairro; 
    private Logradouro logradouro;
-
+   private TipoEndereco tipoende;
+   
 }

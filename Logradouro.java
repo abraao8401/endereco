@@ -1,5 +1,5 @@
 public class Logradouro {
     private String nome;
-
+    private TipoLogradouro tipologra;
 
 }
